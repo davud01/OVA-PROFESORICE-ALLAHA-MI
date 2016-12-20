@@ -1,0 +1,79 @@
+a {
+    display: block;
+    width: 100%;
+    line-height: 2em;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a:hover {
+    color: red;
+    background: #eff;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+} 
+
+li a {
+    display: block;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+pre{
+    font-family: Times New Roman;
+    font-size: 20px;
+    color: white;
+    text-align: left;
+}
+ul { font-family: verdana;font-size:25px;color:white
+}
+
+img {
+    float: right;
+    margin: 0 0 20px 15px;
+}
+a {
+    display: block;
+    width: 100%;
+    line-height: 2em;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a:hover {
+    color: red;
+    background: #eff;
+}
+body {
+    background-image: url("flowers-wallpaper-9.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.img:hover {
+    border: 5px solid #ff1000;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 30px;
+    text-align: center;
+    color:#ff1000
+}
